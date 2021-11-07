@@ -1,7 +1,9 @@
 # Autonomous_Driving_RC_Car
 
 프로젝트 : Safe Sleep 자동차(자율주행 자동차)
+
 팀원 : 변찬호, 유경민
+
 날짜 : 2018년 5월 8일 ~ 6월 25일
 
 # 특징
